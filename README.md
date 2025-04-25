@@ -1,1 +1,1 @@
-# LAB-10-Streamlit
+# LAB-10-Pyhton-and-AI
